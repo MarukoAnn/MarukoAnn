@@ -1,6 +1,6 @@
 ### Hi there, I'm Moonshine 👋
 
-<!-->**moonshinean/moonshinean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<--!>
+<!--**moonshinean/moonshinean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ## ヾ(@^▽^@)ノ
 
