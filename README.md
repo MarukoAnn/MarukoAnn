@@ -21,4 +21,4 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ##  Follow Me
-- [个人博客Blog](http://moonshinean.com/)
+- [个人博客](http://moonshinean.com/)
